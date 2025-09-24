@@ -1,5 +1,5 @@
 BOT_TOKEN = str(getenv('BOT_TOKEN' , '7584718311:AAHgM2r456Sz6MDCbx9uRsgRXcNPnL73se4'))
-    PICS = (environ.get('PICS', 'https://envs.sh/EHp.jpg')).split()
+    PICS = (environ.get('PICS', 'https://i.ibb.co/M5JZr5CD/2374a6296671600a8846f2ba3ea9a035.jpg')).split()
     name = str(getenv('name', 'maheshfiletolinkbot'))
     OWNER_ID = [int(x) for x in os.environ.get("OWNER_ID", "7815873054").split()]
     OWNER_USERNAME = str(getenv('OWNER_USERNAME', 'Kadali_mahesh'))
