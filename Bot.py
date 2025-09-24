@@ -1,13 +1,13 @@
 BOT_TOKEN = str(getenv('BOT_TOKEN' , '7584718311:AAHgM2r456Sz6MDCbx9uRsgRXcNPnL73se4'))
     PICS = (environ.get('PICS', 'https://i.ibb.co/M5JZr5CD/2374a6296671600a8846f2ba3ea9a035.jpg')).split()
-    name = str(getenv('name', 'maheshfiletolinkbot'))
+    name = str(getenv('name', 'iptv'))
     OWNER_ID = [int(x) for x in os.environ.get("OWNER_ID", "7815873054").split()]
     OWNER_USERNAME = str(getenv('OWNER_USERNAME', 'Kadali_mahesh'))
 
     DATABASE_URL = str(getenv('DATABASE_URL', 'mongodb+srv://hello:hello@cluster0.vc2htx0.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0'))
-    UPDATES_CHANNEL = str(getenv('UPDATES_CHANNEL', 'PaypalMafiaOfficial')) 
+    UPDATES_CHANNEL = str(getenv('UPDATES_CHANNEL', 'Anime Time')) 
      
     BAN_ALERT = str(getenv('BAN_ALERT' , '<b>ʏᴏᴜʀ ᴀʀᴇ ʙᴀɴɴᴇᴅ ᴛᴏ ᴜsᴇ ᴛʜɪs ʙᴏᴛ.ᴄᴏɴᴛᴀᴄᴛ @Kadali_mahesh ᴛᴏ ʀᴇsᴏʟᴠᴇ ᴛʜᴇ ɪssᴜᴇ!!</b>'))
     SHORTLINK = is_enabled('SHORTLINK', True)
-    SHORTLINK_URL = getenv('SHORTLINK_URL', 'instantearn.in')
-    SHORTLINK_API = getenv('SHORTLINK_API', '35ec2bbfc32d1b46162ce217076091ca89eea35e')
+    SHORTLINK_URL = getenv('SHORTLINK_URL', 'atglinks.com')
+    SHORTLINK_API = getenv('SHORTLINK_API', '2eaf56483066a41fdf906aa08fe0fba0ee0486de')
