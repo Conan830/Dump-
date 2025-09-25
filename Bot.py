@@ -5,7 +5,7 @@ class TG_CONFIG:
     stringhi = "JT_luclVOxsK_bERZj3VLuBO0NyjJ0E7pPk5X6s7PehAvfiSP9FSkhl34ghLpaP0imNvyOteNJH7XACqE0VyMzdoL9lfg0pdLFRjQD7G694h0Y2KeMAgYBhtoGwS30I0U_MtDuxc0q5U3Y2ApeSiqcPdyloi_dZIJzwAAAABHP54rAA"
     UPSTREAM_REPO = "https://github.com/MAHESH-KADALI/Record-bot"
     UPSTREAM_BRANCH = "main"
-    bot_token = "8043589347:AAFnzvdIY-TBET_DN-zTsiUqLz-9eSU0Rb4"
+    bot_token = "7584718311:AAHgM2r456Sz6MDCbx9uRsgRXcNPnL73se4"
     owner_id = 7815873054
     #DEVS or #OWNERS
     sudo_users = [7172796863]
